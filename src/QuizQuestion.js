@@ -12,7 +12,7 @@ class QuizQuestion extends Component {
           <p>{}</p>
         </section>
         <section className="buttons">
-          <ul><li>{this.props. }</li></ul>
+          <ul><li>{}</li></ul>
         </section>
       </main>
     );
