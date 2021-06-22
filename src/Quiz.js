@@ -11,7 +11,7 @@ class Quiz extends Component {
     return (
       <div>
         <div className="quizQuestion">
-            
+            {quizData.quiz_questions[0].instruction_text}
         </div>
       </div>
     )
